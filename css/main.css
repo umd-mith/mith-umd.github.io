@@ -8,10 +8,10 @@ html {
 }
 
 #links {
-  font-size: 5.9vw;
+  font-size: 4.9vw;
   position: fixed;
-  top: 70%;
-  left: 10%;
+  top: 75%;
+  left: 30%;
 }
 
 #links a {
